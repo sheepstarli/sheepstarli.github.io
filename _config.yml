@@ -1,0 +1,16 @@
+# Site settings
+title: 晨星桑的脑洞
+email: 91lichenxing@gmail.com
+description: 程序猿的惨淡生活~
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://weibo.com/91lichenxing" # the base hostname & protocol for your site
+twitter_username: iloveyousurely
+github_username:  sheepstarli
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
